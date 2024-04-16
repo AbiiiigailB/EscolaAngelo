@@ -1,0 +1,8 @@
+#leia dois numeros e calcule a media entre eles
+
+n1 = int(input("digite o primeiro numero:"))
+n2 = int(input("digite o segundo numero:"))
+
+media = (n1+n2) /2
+
+print("a media entre", n1,"e", n2,"e", media)
