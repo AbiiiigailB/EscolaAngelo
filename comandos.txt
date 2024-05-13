@@ -1,3 +1,4 @@
+OK - PROFESSOR PARISOTTO
 #como clonar um repositório do github com o visual code
 no github abra o repositório e clique no botão CODE-> local - >copiar link do repositório
 no visual studio abra a pasta dos seus projetos ( exemplo: documentos/python/ )
