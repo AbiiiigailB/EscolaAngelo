@@ -17,4 +17,13 @@ def calcular(x , y)
 
 x = int(input("digite um número"))
 y = int(input("digite outro número"))
+print("operações")
+print("1adição")
+print("2subtração")
+print("3multiplicação")
+print("4divisão")
+print("5 resto da divisão")
+print("6potência")
+op = int(intput("escolha a operação: "))
 calcular(x , y)
+a
