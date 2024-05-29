@@ -1,0 +1,11 @@
+OK - PROFESSOR PARISOTTO
+#como clonar um repositório do github com o visual code
+no github abra o repositório e clique no botão CODE-> local - >copiar link do repositório
+no visual studio abra a pasta dos seus projetos ( exemplo: documentos/python/ )
+abra o terminal e digite o comando: gitclone <cole aqui o link copiado>
+  tecle ENTER
+  no vs code abra a pasta clonada
+no terminal digite:git congif user.namr <digite aqui seu nome de usuario no github>
+  tecle ENTER
+  ainda no terminal gigite: git config user.email <digite aqui seu email no github>
+  tecle ENTER
